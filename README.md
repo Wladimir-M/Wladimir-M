@@ -1,0 +1,4 @@
+- Olá meu nome é @Wladimir-M tenho 16 anos de idade e grandes sonhos.
+- Ultimamente tenho focado muito na área de TI
+- Estou em fase de apredizado sobre HTML5, CSS3 e JavaScript
+- E alem de tudo estou a procura de um emprego, então se queiser me ajudar, eu ficarei muito agradecido ;).
